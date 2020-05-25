@@ -1,4 +1,4 @@
-# React Native - Desafio
+# React Native 
 
 ## Intruções
 #### 1. Esforço e tempo
